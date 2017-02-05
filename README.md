@@ -8,11 +8,11 @@ The key idea is based on this [article](http://ieeexplore.ieee.org/document/1048
 
 ### Build:
 ```
-cd ../EllipseDetetor
+cd ../EllipseDetector
 make
 ```
 
-### Examples of usage
+### Examples of usage:
 ```
 cd build/
 ./detector ../data/example.png ../data/example_out.png
