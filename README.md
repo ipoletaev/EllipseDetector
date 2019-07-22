@@ -1,5 +1,5 @@
 # EllipseDetector
-C++ solution for ellipse detection on images.
+C++ solution for ellipse detection.
 The key idea is based on this [article](http://ieeexplore.ieee.org/document/1048464/).
 
 ### Requirements:
